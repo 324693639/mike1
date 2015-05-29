@@ -106,7 +106,7 @@
                                     </value>
                                     <next>
                                       <block type="controls_whileUntil" id="281" inline="false">
-                                        <field name="MODE">WHILE</field>
+                                        <field name="MODE">UNTIL</field>
                                         <value name="NUMBER">
                                           <block type="sensor_button" id="298">
                                             <field name="OBJECT">ENTER</field>
